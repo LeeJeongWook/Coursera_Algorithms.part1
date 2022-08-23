@@ -2,7 +2,7 @@
 # Course Overview
 <br>
 
-|Topic| Data structures and algorithms|
+|Topic| Data structures and Algorithms|
 |:---:|:---:|
 |Data Types | Stack, Queue, Bag, Union-find, Priority queue|
 |Sorting | Quicksort, Mergesort, Heapsort|
